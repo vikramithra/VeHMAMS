@@ -1,0 +1,16 @@
+[
+    {
+        "name": "VikraMithra",
+        "category": "ssss",
+        "isActive": true,
+        "isLended": false,
+        "lendedTo": ""
+    },
+    {
+        "name": "fefe",
+        "category": "fefe",
+        "isActive": true,
+        "isLended": false,
+        "lendedTo": ""
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "firstname": "Ad",
+        "username": "admin",
+        "lastname": "Min",
+        "email": "admin@admin.com",
+        "password": "$2y$10$EGTkIH371vYIl52iiJpLIejelgK3p1D97EC4elaMj7rjCBnzBNjPq",
+        "isAdmin": true
+    },
+    {
+        "firstname": "Ad",
+        "username": "adminTwo",
+        "lastname": "Min2",
+        "email": "admin2@admin.com",
+        "password": "$2y$10$XeFQlsWm7AYJtLSsC\/Z7ruo..EstJfnOWHVKrR8tf031SH.ILRufq",
+        "isAdmin": true
+    },
+    {
+        "firstname": "Em",
+        "username": "Employee1",
+        "lastname": "Ployee",
+        "email": "Employee@employee.com",
+        "password": "$2y$10$seF2eTaLUTolSM9AOZI4keFtX71hFSExQWjX3xfDy1f.IKWlJYfEm",
+        "isAdmin": false
+    },
+    {
+        "firstname": "Em",
+        "username": "Employee2",
+        "lastname": "Ployee2",
+        "email": "Employee@employee.com",
+        "password": "$2y$10$pTlnsSGWhLTBvjenNKGibeCTXHE3xM0yjx\/.PUKl0UcHBgkRPDVvu",
+        "isAdmin": false
+    }
+]
